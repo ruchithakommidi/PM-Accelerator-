@@ -166,7 +166,7 @@ The Random Forest model achieved the lowest MAE and RMSE while producing the hig
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-trend-forecasting.git
+git clone https://github.com/ruchithakommidi/weather-trend-forecasting.git
 cd weather-trend-forecasting
 ```
 
